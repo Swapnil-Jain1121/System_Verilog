@@ -1,0 +1,106 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/APB/APB_Tx_class_methods
+XAPB_tx_1_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+V[HG<khREiC[zAkQoeoiUN2
+r1
+!s85 0
+!i10b 1
+!s100 II2njb?SNI<o^=D3PaTWR0
+I[HG<khREiC[zAkQoeoiUN2
+!i103 1
+S1
+R0
+w1692269444
+8APB_tx_1.sv
+FAPB_tx_1.sv
+L0 1
+Z2 OL;L;10.7c;67
+31
+!s108 1692269446.000000
+!s107 APB_tx_1.sv|
+!s90 -reportprogress|300|APB_tx_1.sv|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+n@a@p@b_tx_1_sv_unit
+XAPB_tx_compare_copy_sv_unit
+R1
+VMkHoWTfiB:m04DL2PT4=L0
+r1
+!s85 0
+!i10b 1
+!s100 5J9AV>0cMlonJ:1W`cfPm1
+IMkHoWTfiB:m04DL2PT4=L0
+!i103 1
+S1
+R0
+Z5 w1692274545
+Z6 8APB_tx_compare_copy.sv
+Z7 FAPB_tx_compare_copy.sv
+L0 1
+R2
+31
+Z8 !s108 1692274547.000000
+Z9 !s107 APB_tx_compare_copy.sv|
+Z10 !s90 -reportprogress|300|APB_tx_compare_copy.sv|
+!i113 0
+R3
+R4
+n@a@p@b_tx_compare_copy_sv_unit
+XAPB_tx_compare_sv_unit
+R1
+Vo4L9?_bF7BIdW5AD8SH<B3
+r1
+!s85 0
+!i10b 1
+!s100 0XKiXm7MT1n6I`gF8jlJ]3
+Io4L9?_bF7BIdW5AD8SH<B3
+!i103 1
+S1
+R0
+w1692270413
+8APB_tx_compare.sv
+FAPB_tx_compare.sv
+L0 1
+R2
+31
+!s108 1692270415.000000
+!s107 APB_tx_compare.sv|
+!s90 -reportprogress|300|APB_tx_compare.sv|
+!i113 0
+R3
+R4
+n@a@p@b_tx_compare_sv_unit
+vtop
+R1
+DXx4 work 27 APB_tx_compare_copy_sv_unit 0 22 MkHoWTfiB:m04DL2PT4=L0
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 dLQ61O9BGFAh=@NFB=V0`3
+I7@RNC0QgnKgdBzmML6=hd0
+!s105 APB_tx_compare_copy_sv_unit
+S1
+R0
+R5
+R6
+R7
+L0 40
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4

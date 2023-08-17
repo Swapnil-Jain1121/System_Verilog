@@ -1,0 +1,107 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/APB_tx
+XAPB_top_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+V^mDj<lbWk7;1=2aO`JmeA3
+r1
+!s85 0
+!i10b 1
+!s100 `dl:b@nn@<zmI=OY<>K`O0
+I^mDj<lbWk7;1=2aO`JmeA3
+!i103 1
+S1
+R0
+w1692192387
+8APB_top.sv
+FAPB_top.sv
+FAPB_tx.sv
+L0 1
+Z2 OL;L;10.7c;67
+31
+!s108 1692192494.000000
+!s107 APB_tx.sv|APB_top.sv|
+!s90 -reportprogress|300|APB_top.sv|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+n@a@p@b_top_sv_unit
+XAPB_tx_1_sv_unit
+R1
+V89z<i3jJ_gOR?V>::Oz[F0
+r1
+!s85 0
+!i10b 1
+!s100 ]KV;7a[l2O2I=`oARVk=C3
+I89z<i3jJ_gOR?V>::Oz[F0
+!i103 1
+S1
+R0
+w1692195921
+8APB_tx_1.sv
+FAPB_tx_1.sv
+L0 1
+R2
+31
+!s108 1692195926.000000
+!s107 APB_tx_1.sv|
+!s90 -reportprogress|300|APB_tx_1.sv|
+!i113 0
+R3
+R4
+n@a@p@b_tx_1_sv_unit
+XAPB_tx_2_sv_unit
+R1
+Vz^HNG`L8oOf^U<llfV>^E2
+r1
+!s85 0
+!i10b 1
+!s100 nK@@Rb;GH5VSMIHJS@lb>1
+Iz^HNG`L8oOf^U<llfV>^E2
+!i103 1
+S1
+R0
+Z5 w1692195923
+Z6 8APB_tx_2.sv
+Z7 FAPB_tx_2.sv
+L0 1
+R2
+31
+Z8 !s108 1692195938.000000
+Z9 !s107 APB_tx_2.sv|
+Z10 !s90 -reportprogress|300|APB_tx_2.sv|
+!i113 0
+R3
+R4
+n@a@p@b_tx_2_sv_unit
+vtop
+R1
+DXx4 work 16 APB_tx_2_sv_unit 0 22 z^HNG`L8oOf^U<llfV>^E2
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ;96[X6mNca0oP7[8`<EQ_0
+Ig<o;<YmN09]be?52Plo891
+!s105 APB_tx_2_sv_unit
+S1
+R0
+R5
+R6
+R7
+L0 25
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4
