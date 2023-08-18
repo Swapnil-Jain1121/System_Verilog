@@ -1,0 +1,149 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/Ethernet
+Xethernet_1_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Vk8BBW9GNgF1W2=?m?6z3G3
+r1
+!s85 0
+!i10b 1
+!s100 ]0>JENBNSfR7k=KG7HF343
+Ik8BBW9GNgF1W2=?m?6z3G3
+!i103 1
+S1
+R0
+w1692307732
+8ethernet_1.sv
+Fethernet_1.sv
+L0 1
+Z2 OL;L;10.7c;67
+31
+!s108 1692307735.000000
+!s107 ethernet_1.sv|
+!s90 -reportprogress|300|ethernet_1.sv|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+Xethernet_2_sv_unit
+R1
+VTZMAN?B5EVEm7z;Q3H0jK2
+r1
+!s85 0
+!i10b 1
+!s100 FPGo?JgO___3DHYKQ_dlK2
+ITZMAN?B5EVEm7z;Q3H0jK2
+!i103 1
+S1
+R0
+w1692309268
+8ethernet_2.sv
+Fethernet_2.sv
+L0 1
+R2
+31
+!s108 1692309280.000000
+!s107 ethernet_2.sv|
+!s90 -reportprogress|300|ethernet_2.sv|
+!i113 0
+R3
+R4
+Xethernet_3_local_sv_unit
+R1
+V^YDi`a@[L9?DAE=SHj=6L1
+r1
+!s85 0
+!i10b 1
+!s100 bSaBT<edd_[61Noo1A;H31
+I^YDi`a@[L9?DAE=SHj=6L1
+!i103 1
+S1
+R0
+w1692309999
+8ethernet_3_local.sv
+Fethernet_3_local.sv
+L0 1
+R2
+31
+!s108 1692310000.000000
+!s107 ethernet_3_local.sv|
+!s90 -reportprogress|300|ethernet_3_local.sv|
+!i113 0
+R3
+R4
+Xethernet_3_protected_sv_unit
+R1
+V1iLKEH=6A[O?z8?e3i`MH1
+r1
+!s85 0
+!i10b 1
+!s100 jb_?5B[4jF`o4L5A=L9W^0
+I1iLKEH=6A[O?z8?e3i`MH1
+!i103 1
+S1
+R0
+Z5 w1692351330
+Z6 8ethernet_3_protected.sv
+Z7 Fethernet_3_protected.sv
+L0 1
+R2
+31
+Z8 !s108 1692351331.000000
+Z9 !s107 ethernet_3_protected.sv|
+Z10 !s90 -reportprogress|300|ethernet_3_protected.sv|
+!i113 0
+R3
+R4
+Xethernet_3_sv_unit
+R1
+V0HfGo[<IG`OH@H5Wi>[EI2
+r1
+!s85 0
+!i10b 1
+!s100 fZ;hBbM[5L96OYOMZ``gS2
+I0HfGo[<IG`OH@H5Wi>[EI2
+!i103 1
+S1
+R0
+w1692309249
+8ethernet_3.sv
+Fethernet_3.sv
+L0 1
+R2
+31
+!s108 1692309296.000000
+!s107 ethernet_3.sv|
+!s90 -reportprogress|300|ethernet_3.sv|
+!i113 0
+R3
+R4
+vtop
+R1
+DXx4 work 28 ethernet_3_protected_sv_unit 0 22 1iLKEH=6A[O?z8?e3i`MH1
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ;b[]LgSTJ^P?V4WJ7AL8I0
+I1Gj55>9^6BVTd<gOhlQ3z1
+!s105 ethernet_3_protected_sv_unit
+S1
+R0
+R5
+R6
+R7
+L0 67
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4
