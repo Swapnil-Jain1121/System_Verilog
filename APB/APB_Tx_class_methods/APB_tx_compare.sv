@@ -18,8 +18,10 @@ class APB_tx;
 
     if (addr == tx.addr && data == tx.data && wr_rd == tx.wr_rd && sel == tx.sel) begin
       $display("tx fields are matching");
+      return 1;
     end else begin
       $display("tx fields are mismatching");
+      return 0;
     end
   endfunction
 

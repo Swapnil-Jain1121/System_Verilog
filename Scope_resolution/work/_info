@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/Scope_resolution
+Xscope_1_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+VP^^Y?Lz8OS@4cfZY[35XS3
+r1
+!s85 0
+!i10b 1
+!s100 47nXgcMjY>ZGBXJzS88=O2
+IP^^Y?Lz8OS@4cfZY[35XS3
+!i103 1
+S1
+R0
+w1693918835
+8scope_1.sv
+Fscope_1.sv
+L0 1
+Z2 OL;L;10.7c;67
+31
+!s108 1693918837.000000
+!s107 scope_1.sv|
+!s90 -reportprogress|300|scope_1.sv|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+Xscope_2_sv_unit
+R1
+VKd<o0Qf>aCfNMJn80[@Tf1
+r1
+!s85 0
+!i10b 1
+!s100 a3J2A7bazgQB]f=1ncK4C1
+IKd<o0Qf>aCfNMJn80[@Tf1
+!i103 1
+S1
+R0
+Z5 w1693923113
+Z6 8scope_2.sv
+Z7 Fscope_2.sv
+L0 1
+R2
+31
+Z8 !s108 1693923116.000000
+Z9 !s107 scope_2.sv|
+Z10 !s90 -reportprogress|300|scope_2.sv|
+!i113 0
+R3
+R4
+Xscope_sv_unit
+R1
+V8_ibI2`9[18@TIWLmGoSz0
+r1
+!s85 0
+!i10b 1
+!s100 N[F]fF^<RV7oTQ8;ZaQf:3
+I8_ibI2`9[18@TIWLmGoSz0
+!i103 1
+S1
+R0
+w1693918018
+8scope.sv
+Fscope.sv
+L0 1
+R2
+31
+!s108 1693918406.000000
+!s107 scope.sv|
+!s90 -reportprogress|300|scope.sv|
+!i113 0
+R3
+R4
+vsub_module
+R1
+Z11 DXx4 work 15 scope_2_sv_unit 0 22 Kd<o0Qf>aCfNMJn80[@Tf1
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 M_G1MHbWIMFCi^9@K1RVc1
+IT6b:iJ?4_HQ[k8Lg>[`Mk0
+Z13 !s105 scope_2_sv_unit
+S1
+R0
+R5
+R6
+R7
+L0 20
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4
+vtop
+R1
+R11
+R12
+r1
+!s85 0
+!i10b 1
+!s100 6NUo9H;iQ9<zcnfIWBP612
+In?jR_[OMf`VjG222I;XlX3
+R13
+S1
+R0
+R5
+R6
+R7
+L0 27
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4

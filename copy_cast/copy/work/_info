@@ -1,0 +1,158 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/copy_cast
+T_opt
+!s110 1694008172
+Ve:X60e`YUYKl71FK;0E`a3
+04 3 4 work top fast 0
+=1-9843fa82e425-64f8836c-87-6e54
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+Xcopy_by_handle_sv_unit
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+VzXXUNkE1QDeUY2JU0PNJl3
+r1
+!s85 0
+!i10b 1
+!s100 DC_kPI8Lg;?Z@ckMnc9?^0
+IzXXUNkE1QDeUY2JU0PNJl3
+!i103 1
+S1
+R0
+w1694002273
+8copy_by_handle.sv
+Fcopy_by_handle.sv
+L0 1
+Z3 OL;L;10.7c;67
+31
+!s108 1694002275.000000
+!s107 copy_by_handle.sv|
+!s90 -reportprogress|300|copy_by_handle.sv|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Xdeep_copy_practical_example_sv_unit
+R2
+V;Od>kA`9>:97ofVTAMRN[2
+r1
+!s85 0
+!i10b 1
+!s100 nLOD6lgD6EkTQ0ITK^o232
+I;Od>kA`9>:97ofVTAMRN[2
+!i103 1
+S1
+R0
+Z5 w1694008168
+Z6 8deep_copy_practical_example.sv
+Z7 Fdeep_copy_practical_example.sv
+L0 1
+R3
+31
+Z8 !s108 1694008171.000000
+Z9 !s107 deep_copy_practical_example.sv|
+Z10 !s90 -reportprogress|300|deep_copy_practical_example.sv|
+!i113 0
+R4
+R1
+Xdeep_copy_sv_unit
+R2
+VCC>^[e3YPNLF`Omc8PPJ^1
+r1
+!s85 0
+!i10b 1
+!s100 2AUjGVaLK:>OV:b7j1g552
+ICC>^[e3YPNLF`Omc8PPJ^1
+!i103 1
+S1
+R0
+w1694005070
+8deep_copy.sv
+Fdeep_copy.sv
+L0 1
+R3
+31
+!s108 1694005075.000000
+!s107 deep_copy.sv|
+!s90 -reportprogress|300|deep_copy.sv|
+!i113 0
+R4
+R1
+Xshallow_copy_issue_sv_unit
+R2
+VLHn>f4FH=QiL2gHcbWoKe2
+r1
+!s85 0
+!i10b 1
+!s100 l3BT;e^ZT_PjakC>Jd7kQ0
+ILHn>f4FH=QiL2gHcbWoKe2
+!i103 1
+S1
+R0
+w1694003514
+8shallow_copy_issue.sv
+Fshallow_copy_issue.sv
+L0 1
+R3
+31
+!s108 1694003516.000000
+!s107 shallow_copy_issue.sv|
+!s90 -reportprogress|300|shallow_copy_issue.sv|
+!i113 0
+R4
+R1
+Xshallow_copy_sv_unit
+R2
+VjGSF9DR7A<K[VdKOG7TT`3
+r1
+!s85 0
+!i10b 1
+!s100 2dGKY:AWV?^:ke5XSY5Zi1
+IjGSF9DR7A<K[VdKOG7TT`3
+!i103 1
+S1
+R0
+w1694002598
+8shallow_copy.sv
+Fshallow_copy.sv
+L0 1
+R3
+31
+!s108 1694002600.000000
+!s107 shallow_copy.sv|
+!s90 -reportprogress|300|shallow_copy.sv|
+!i113 0
+R4
+R1
+vtop
+R2
+DXx4 work 35 deep_copy_practical_example_sv_unit 0 22 ;Od>kA`9>:97ofVTAMRN[2
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 lFRn72KWU2E@WRAiUN5lR2
+IM>k>Nll_dH5_lLF]Xm@C80
+!s105 deep_copy_practical_example_sv_unit
+S1
+R0
+R5
+R6
+R7
+L0 27
+R3
+31
+R8
+R9
+R10
+!i113 0
+R4
+R1

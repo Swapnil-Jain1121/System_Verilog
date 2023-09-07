@@ -1,8 +1,8 @@
 #compilation
-vlog ethernet_3_protected.sv
+vlog sample_pkt_top.sv
 
 #elaboration
-vsim -novopt -suppress 12110 top -sv_seed 457s
+vsim top
 
 #adding signals to the wave
 #add wave -position insertpoint sim:/top/*

@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/Encapsulation/assignment_1
+T_opt
+!s110 1693320839
+V]gS@C0m;XhQY@Mg`IKO@V3
+Z1 04 3 4 work top fast 0
+=1-9843fa82e425-64ee0687-2f8-5990
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1693325483
+VR068nR4YI@F6:HWPKieEX3
+R1
+=1-9843fa82e425-64ee18ab-302-90ec
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1693325681
+VXhecQVRI1k`oNOZUoFI]d3
+R1
+=1-9843fa82e425-64ee1971-ed-ecc
+R2
+R3
+n@_opt2
+R4
+vtop
+Z5 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+DXx4 work 11 top_sv_unit 0 22 KDMjh?O1zSDSkbmVd<STL3
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 jF@6T6a=FYAF]RNKL8Q[i2
+I1VHBkTg[I>h`6OIN5k0:g1
+!s105 top_sv_unit
+S1
+Z6 dE:/Repository/System_Verilog/Encapsulation/this_super
+w1693305167
+Z7 8top.sv
+Z8 Ftop.sv
+L0 18
+Z9 OL;L;10.7c;67
+31
+Z10 !s108 1693325680.000000
+Z11 !s107 eth_bfm.sv|eth_env.sv|eth_gen.sv|eth_ill_pkt.sv|eth_bad_pkt.sv|eth_good_pkt.sv|eth_pkt.sv|eth_common.sv|top.sv|
+Z12 !s90 -reportprogress|300|top.sv|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+Xtop_sv_unit
+R5
+VKDMjh?O1zSDSkbmVd<STL3
+r1
+!s85 0
+!i10b 1
+!s100 oa^f`DWiJ<O0bA>IYfnk60
+IKDMjh?O1zSDSkbmVd<STL3
+!i103 1
+S1
+R6
+w1693325670
+R7
+R8
+Feth_common.sv
+Feth_pkt.sv
+Feth_good_pkt.sv
+Feth_bad_pkt.sv
+Feth_ill_pkt.sv
+Feth_gen.sv
+Feth_env.sv
+Feth_bfm.sv
+L0 2
+R9
+31
+R10
+R11
+R12
+!i113 0
+R13
+R3
