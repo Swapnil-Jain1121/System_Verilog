@@ -1,0 +1,66 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/typedef
+T_opt
+!s110 1694096278
+Vb]^IYK]5EC?A4=F6QaSjC1
+04 3 4 work top fast 0
+=1-9843fa82e425-64f9db95-3be-98a8
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vtop
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1694096276
+!i10b 1
+!s100 :l2RmeKRz6Tm1ebo8<WMA1
+I=h]11ZRa5IDCz`Bl8VBoL2
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 array_of_queue_sv_unit
+S1
+R0
+w1694096273
+8array_of_queue.sv
+Farray_of_queue.sv
+L0 1
+Z3 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1694096276.000000
+!s107 array_of_queue.sv|
+!s90 -reportprogress|300|array_of_queue.sv|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Xtype_1_sv_unit
+R2
+Vo^aMSg2SEOJ=INH1SofkE1
+r1
+!s85 0
+!i10b 1
+!s100 ]j7V7UG@bScGaFjhT=P;X3
+Io^aMSg2SEOJ=INH1SofkE1
+!i103 1
+S1
+R0
+w1694091900
+8type_1.sv
+Ftype_1.sv
+L0 1
+R3
+31
+!s108 1694091902.000000
+!s107 type_1.sv|
+!s90 -reportprogress|300|type_1.sv|
+!i113 0
+R4
+R1
