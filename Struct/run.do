@@ -1,5 +1,5 @@
 #compilation
-vlog medals_1.sv
+vlog array_of_queues.sv
 
 #elaboration
 vsim top -sv_seed 4579

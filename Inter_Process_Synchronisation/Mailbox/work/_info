@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/Inter_Process_Synchronisation/Mailbox
+T_opt
+!s110 1694430355
+V0:HS43QSRC6Jo2eEIehQJ2
+04 3 4 work top fast 0
+=1-9843fa82e425-64fef493-56-4724
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+XMailbox_1_sv_unit
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+VF]U^_[FBRe:V9VVKg;e7P2
+r1
+!s85 0
+!i10b 1
+!s100 og<6YXdl0<27PFR2Cf2V00
+IF]U^_[FBRe:V9VVKg;e7P2
+!i103 1
+S1
+R0
+w1694428950
+8Mailbox_1.sv
+FMailbox_1.sv
+L0 1
+Z3 OL;L;10.7c;67
+31
+!s108 1694428951.000000
+!s107 Mailbox_1.sv|
+!s90 -reportprogress|300|Mailbox_1.sv|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@mailbox_1_sv_unit
+XMailbox_peek_sv_unit
+R2
+VLfYIgZE;o@G2nR^KG]Q0e1
+r1
+!s85 0
+!i10b 1
+!s100 dUhZK69MAoJkaH9b8[05B0
+ILfYIgZE;o@G2nR^KG]Q0e1
+!i103 1
+S1
+R0
+Z5 w1694430353
+Z6 8Mailbox_peek.sv
+Z7 FMailbox_peek.sv
+L0 1
+R3
+31
+Z8 !s108 1694430354.000000
+Z9 !s107 Mailbox_peek.sv|
+Z10 !s90 -reportprogress|300|Mailbox_peek.sv|
+!i113 0
+R4
+R1
+n@mailbox_peek_sv_unit
+XMailbox_try_get_sv_unit
+R2
+VbSSm>VJmG?hBRU[NFiZ8k3
+r1
+!s85 0
+!i10b 1
+!s100 2;G<mM[SGZ_[G=lMT;eM=3
+IbSSm>VJmG?hBRU[NFiZ8k3
+!i103 1
+S1
+R0
+w1694429991
+8Mailbox_try_get.sv
+FMailbox_try_get.sv
+L0 1
+R3
+31
+!s108 1694429996.000000
+!s107 Mailbox_try_get.sv|
+!s90 -reportprogress|300|Mailbox_try_get.sv|
+!i113 0
+R4
+R1
+n@mailbox_try_get_sv_unit
+XMailbox_try_put_get_sv_unit
+R2
+VYP3S;oj>6R[X<XDekfTV23
+r1
+!s85 0
+!i10b 1
+!s100 dY;U@]zanXMfCT>7bN4eU0
+IYP3S;oj>6R[X<XDekfTV23
+!i103 1
+S1
+R0
+w1694430113
+8Mailbox_try_put_get.sv
+FMailbox_try_put_get.sv
+L0 1
+R3
+31
+!s108 1694430119.000000
+!s107 Mailbox_try_put_get.sv|
+!s90 -reportprogress|300|Mailbox_try_put_get.sv|
+!i113 0
+R4
+R1
+n@mailbox_try_put_get_sv_unit
+vtop
+R2
+DXx4 work 20 Mailbox_peek_sv_unit 0 22 LfYIgZE;o@G2nR^KG]Q0e1
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 7egfcRl<^7ogKib_?Hhl>2
+I[0Egk40l2[6C<hlWY^ZCk2
+!s105 Mailbox_peek_sv_unit
+S1
+R0
+R5
+R6
+R7
+L0 5
+R3
+31
+R8
+R9
+R10
+!i113 0
+R4
+R1

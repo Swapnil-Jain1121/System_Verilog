@@ -1,0 +1,11 @@
+top.sv
+memory.sv
+mem_tx.sv
+mem_intf.sv
+mem_gen.sv
+mem_env.sv
+mem_agent.sv
+mem_bfm.sv
+
+
+mem_common.sv

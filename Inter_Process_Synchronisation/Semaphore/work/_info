@@ -1,0 +1,43 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Repository/System_Verilog/Inter_Process_Synchronisation/Semaphore
+T_opt
+!s110 1694771553
+ViG0UAHBB8aCPk0F1jZD4l2
+04 3 4 work top fast 0
+=1-9843fa82e425-65042961-2ec-246c
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vtop
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1694771552
+!i10b 1
+!s100 WbAJDkFL<O6`OnoG3o0Y`3
+I2<4zjSO:SP@T3KG?4=U`00
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 semaphore_1_sv_unit
+S1
+R0
+w1694771549
+8semaphore_1.sv
+Fsemaphore_1.sv
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1694771552.000000
+!s107 semaphore_1.sv|
+!s90 -reportprogress|300|semaphore_1.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

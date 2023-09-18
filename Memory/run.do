@@ -1,0 +1,1 @@
+vlof -f list.txt
